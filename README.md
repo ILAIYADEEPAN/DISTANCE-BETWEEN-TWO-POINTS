@@ -8,7 +8,8 @@ first import the import math function
 ### Step 2: 
 Then the values are given to the variables
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  ![formula](/![formula](https://github.com/ILAIYADEEPAN/DISTANCE-BETWEEN-TWO-POINTS/assets/147473334/352425c5-b5f3-4174-837b-c7c7c5383cc5)
+)
 ### Step 4:
 Now print the distance of the values using the formula math.sqrt 
 ### Step 5: 
@@ -26,7 +27,8 @@ print(round(dis,2))
 
 
 ### OUTPUT:
-![output](/distance%20between%20two%20points.png)
+![output](/![distance between two points](https://github.com/ILAIYADEEPAN/DISTANCE-BETWEEN-TWO-POINTS/assets/147473334/37197042-81cb-4478-90b9-d583f0d9d3fc)
+)
 
 
 ### RESULT:
